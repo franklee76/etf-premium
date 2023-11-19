@@ -3,4 +3,3 @@ pandas
 plotly
 streamlit
 eikon
-refinitiv_access
